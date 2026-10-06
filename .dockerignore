@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+.venv
+venv
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.log
+**/logs
+**/*.md
